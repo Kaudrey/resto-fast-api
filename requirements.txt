@@ -1,0 +1,15 @@
+fastapi
+uvicorn 
+sqlalchemy 
+pydantic 
+psycopg2 
+alembic 
+jinja2 
+python-multipart
+python-dotenv
+pandas
+passlib
+requests
+pydantic[email]
+faker
+
